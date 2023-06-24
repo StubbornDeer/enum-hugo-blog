@@ -1,4 +1,4 @@
-baseURL = "https://enumhq.com/"
+baseURL = "https://enum-hugo-blog.vercel.app/"
 languageCode = "en-us"
 title = "Enum Blog"
 theme = "lightbi-hugo-master"
