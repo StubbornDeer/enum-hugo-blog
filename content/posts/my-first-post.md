@@ -1,5 +1,5 @@
 ---
-title: How to beat your competitors: a really untapped area
+title: "How to beat your competitors: a really untapped area"
 date: 2023-05-25
 tags: ["business", "startups"]
 image : "/img/posts/img-2.jpg"
