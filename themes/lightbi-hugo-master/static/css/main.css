@@ -9,6 +9,10 @@ body {
   flex-flow: column;
   min-height: 100vh;
 }
+.logo-img {
+  margin-right: 6px;
+  margin-top: 2px;
+}
 .container[role=main] {
   margin-bottom:25px;
   flex: 1 0 auto; 
