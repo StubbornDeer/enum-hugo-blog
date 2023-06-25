@@ -35,11 +35,15 @@ p + p {
 }
 p a { 
   color: #785de7;
+  background-color: #f3f2f9;
+  padding: 0px 5px;
 }
 
 
 li a {
   color: #785de7;
+  background-color: #f3f2f9;
+  padding: 0px 5px;
 }
 
 a {
