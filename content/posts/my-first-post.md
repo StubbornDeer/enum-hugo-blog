@@ -2,7 +2,8 @@
 title: "How to beat your competitors: a really untapped area"
 date: 2023-05-25
 tags: ["business", "startups"]
-image : "/img/posts/img-2.jpg"
+image : "https://github.com/StubbornDeer/enum-hugo-blog/assets/91156314/88a9e64e-3375-44b5-a4c7-f10a9520146a"
+
 Description  : "Let's talk about one of the multiple but unknown, unpopular, and mostly poorly implemented ways to find new and retain existing users."
 featured: true
 ---
