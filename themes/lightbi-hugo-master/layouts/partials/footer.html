@@ -38,12 +38,9 @@
     <div class="row">
       <div class="col-md-12">
         <p class="credits copyright text-muted">
-          {{ if .Site.Author.name }}
-          {{ if .Site.Author.website }}
-          <a href="{{ .Site.Author.website }}">{{ .Site.Author.name }}</a>
-          {{ else }}
-          {{ .Site.Author.name }}
-          {{ end }}
+
+          {{ if .Site.Title }}
+          <a href="{{ "" | absLangURL }}">{{ .Site.Title }}</a>
           {{ end }}
 
           &nbsp;&bull;&nbsp;&copy;
@@ -53,10 +50,6 @@
           {{ .Site.LastChange.Format "2006" }}
           {{ end }}
 
-          {{ if .Site.Title }}
-          &nbsp;&bull;&nbsp;
-          <a href="{{ "" | absLangURL }}">{{ .Site.Title }}</a>
-          {{ end }}
         </p>
         <!-- Please don't remove this, keep my open source work credited. -->
         <p class="credits theme-by text-muted">
