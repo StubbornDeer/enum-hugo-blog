@@ -2,3 +2,5 @@ baseURL = "https://enum-hugo-blog.vercel.app/"
 languageCode = "en-us"
 title = "Enum Blog"
 theme = "lightbi-hugo-master"
+[params]
+    author = "KM, founder of Enum"
