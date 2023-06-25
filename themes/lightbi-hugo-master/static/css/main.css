@@ -37,6 +37,7 @@ p a {
   color: #785de7;
   background-color: #f3f2f9;
   padding: 0px 5px;
+  border-radius: 3px;
 }
 
 
@@ -44,6 +45,7 @@ li a {
   color: #785de7;
   background-color: #f3f2f9;
   padding: 0px 5px;
+  border-radius: 3px;
 }
 
 a {
@@ -822,6 +824,9 @@ h4.see-also {
 
 .nav-link{
   background-color :rgba(255,255,255,.98);
+}
+.nav-link a {
+  border-radius: 50%;
 }
 
 .bg-faded-light {
