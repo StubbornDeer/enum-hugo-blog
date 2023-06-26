@@ -40,6 +40,8 @@ As we can see the immediate communication with support may be the most effective
 
 ![image](https://github.com/StubbornDeer/public-media-files/assets/91156314/51d2a046-5368-4acb-a492-4da1c649478c)
 
+To solve this problem business can create a workflow that the chatbot will use. But the result is usually very poor because creating such workflows requires a lot of efforts, many documents become obsolete pretty poor and generally, they don't solve the user's task: to search
+
 Another way to help with a problem is to provide as much information as possible. The documentation, guides, articles, how-tos - all this stuff works. But it's still not perfect, and this is why...
 
 ### What is the common problem users face
