@@ -76,7 +76,7 @@ Fortunately, these days we already have tools and frameworks that can help with 
 2. vector database (like [Qdrant](https://qdrant.tech/)) helping with searching the relevant pieces of text, fast and accurate
 3. [ChatGPT](https://openai.com/chatgpt) - to find the accurate answer and form a human-like response.
 4. chatbox online service like [Crisp](https://crisp.chat) that organize the interactive communication - by humans or bots, with a lot of possibilities to adjust the chatbox UI, have the full story, connect to your favorite CMS and many others.
-5. the connector. [Enum](https://enumhq.com) connects all these parts that you don't need to to. 
+5. a connector to join all these parts. [Enum](https://enumhq.com) connects all these parts that you don't need to to. 
 
 It's still a beginning. ChatGPT is wrong sometimes, the answers are not relevant sometimes and users don't get what they want. But it's still a huge step towards more successful retaining users and make them your friends, not enemies. But just because this approach is a very fresh and new, many business don't use the power of modern technologies and lose their existing and future clients. Don't be like them, start researching. Here are several useful links to check:
 
