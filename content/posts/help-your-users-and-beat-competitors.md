@@ -4,7 +4,7 @@ date: 2023-05-25
 tags: ["business", "startups"]
 image : "https://github.com/StubbornDeer/public-media-files/assets/91156314/394c01ff-e949-4634-8e67-7b611c27af8b"
 
-Description  : "Let&apos;s talk about one of the multiple but unknown, unpopular, and mostly poorly implemented ways to find new and retain existing users."
+Description  : "Let's talk about one of the multiple but unknown, unpopular, and mostly poorly implemented ways to find new and retain existing users."
 featured: true
 ---
 
