@@ -29,7 +29,8 @@
 {{ if .IsHome }}
 <title>{{ $.Site.Title }}</title>
 {{ if (isset $.Site.Params "description") }}
-<meta name="description" content="{{ $.Site.Params.description }}">
+
+<meta name="description" content="{{ $.Site.Params.description | printf "content=%q" | safeHTMLAttr }}">
 {{ end }}
 {{- else }}
 {{- with ($.Scratch.Get "Title") }}
