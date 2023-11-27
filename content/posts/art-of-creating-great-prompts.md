@@ -13,41 +13,41 @@ A good prompt is half the battle for success - alongside the data you provide fo
 
 ## 7 Principles for Crafting Effective Prompts that Work
 
-### Clarity and Specificity:
+### Clarity and Specificity
 
 - Clearly articulate your instruction.
 - Avoid ambiguity to ensure the model understands your intent.
 - Do not use idioms, abbreviations, or acronyms that the chatbot may not know.
 - Avoid using "please," "thanks," and other words that don’t carry significant meaning. While seemingly harmless, they could lower the overall quality of the response.
 
-### Avoid Open-Ended Instructions:
+### Avoid Open-Ended Instructions
 
 If you want specific information, avoid overly open-ended prompts. Instead of "Tell me about dogs," try "List three interesting facts about dogs."
 
-### Break Down Complex Queries:
+### Break Down Complex Queries
 
 If your prompt involves multiple questions or tasks, break them down into smaller, more manageable parts. This helps the model focus on each aspect separately. Using this approach, you can create the entire workflow, but remember: you must be very clear and specific.
 
-### Utilize the Roles' Capabilities:
+### Utilize the Roles' Capabilities
 
 Provide high-level instructions to guide the model's behavior. For example, start your prompt with "You are an assistant that speaks like Shakespeare" to set a specific tone.
 
-### Experiment with Different Inputs:
+### Experiment with Different Inputs
 
 - Try different types of prompts, such as open-ended questions, specific queries, or creative requests.
 - Explore various topics and styles to understand the model's capabilities across different domains. Sometimes, the model works better when we remove common phrases like “you are a helpful assistant” and instead, specify what it exactly means.
 - Avoid explanations - don’t tell why the chatbot should do it, but just say clearly what to do and what not to do.
 
-### Understand Model Limitations:
+### Understand Model Limitations
 
 - Be aware of the model's limitations and potential biases.
 - Adjust your prompts to account for the model's tendency to generate responses that may be overly verbose, repetitive, or off-topic.
 
-### Less is Better:
+### Less is Better
 
 Don’t overcomplicate; make the prompt as short as possible. Move all the information that can be used only if a user asks about it to the data sources.
 
-### Be Patient with Iterative Refinement:
+### Be Patient with Iterative Refinement
 
 Improving prompt effectiveness often requires iterative refinement. Analyze model outputs, adjust prompts, and repeat the process to fine-tune your approach.
 
