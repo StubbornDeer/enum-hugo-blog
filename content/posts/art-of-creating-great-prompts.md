@@ -62,5 +62,21 @@ We provided the current date and time in the UTC timezone so you can try to use 
 ### Refill the data source
 Sometimes, the chatbot may respond outside of the context - no matter if the given context contains this information or not. If you notice it, create an additional text data source and add the correct statements there. For example, if the chatbot can answer about the function that your dashboard doesn’t have, say about “changing sound level,” just add the following sentence: “Our dashboard doesn’t have the feature to change the sound level.”
 
+### Do not use lists
+We found that ChatGPT doesn't "understand" lists well. Instead, you write a separate instruction for each case. For example, you want to prevent the chatbot from answering questions on specific topics.
+
+<wrong>Wrong prompt:</wrong>
+
+*If a question is about the following topic, refer to our Pro team:*
+
+*- direct marketing*
+
+*- ad marketing*
+
+<correct>Right prompt:</correct>
+
+*If a question is about direct marketing, refer to our Pro team.*
+*If a question is about ad marketing, refer to our Pro team.*
+
 Happy prompting!
   
