@@ -1013,3 +1013,35 @@ correct {
     padding: 5px 10px;
     border-radius: 5px;
 }
+.convo.me {
+      display: inline-block;
+    background-color: #4f71df;
+    color: #fff;
+    font-size: 17px;
+    padding: 10px;
+    border-radius: 11px;
+  margin-bottom: 10px;
+}
+.convo.them {
+    display: inline-block;
+    background-color: #bec1cb;
+    color: #000;
+    font-size: 17px;
+    padding: 10px;
+    border-radius: 11px;
+   margin-bottom: 10px;
+}
+.convo.divider {
+      display: block;
+    text-align: center;
+    /* background-color: #e1e1e1; */
+    font-size: 16px;
+    margin: 15px 0px;
+    padding: 5px;
+    border-radius: 9px;
+    font-style: italic;
+}
+.convo.note {
+margin: 10px 0px;
+    font-style: italic;
+}
