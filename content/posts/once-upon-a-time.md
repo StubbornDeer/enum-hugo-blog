@@ -64,7 +64,7 @@ featured: true
 
 <div class="convo me"><span>Next step, world domination with chatbots.</span></div>
 
-<div class="convo them"><span>Also, I added the Instruments feature to Enum.</span></div>
+<div class="convo them"><span>Also, I added the Instruments feature to my project.</span></div>
 
 <div class="convo me"><span>Ah, yeah. I use them too. How's it working out?</span></div>
 
