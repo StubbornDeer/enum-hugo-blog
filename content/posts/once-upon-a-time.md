@@ -2,7 +2,7 @@
 title: "Once upon a time..."
 date: 2024-04-07
 tags: ["ai", "chatbot", "chatgpt", "business"]
-image : "https://github.com/StubbornDeer/public-media-files/assets/91156314/87f3f3f5-a419-495f-8b5f-7bf31893c218"
+image : "https://github.com/StubbornDeer/public-media-files/blob/594e0429b7e3fa118c03f542f816eb811c3a8033/media/business-is-hard.jpg"
 
 Description  : "How someone embeds the chatbot into their business (based on a true story)"
 featured: true
