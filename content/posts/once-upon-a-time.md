@@ -144,6 +144,6 @@ featured: true
 
 <div class="convo me"><span>Anytime, man. Here's to less stress and more success.</span></div>
 
-<div class="convo them"><span><span>Cheers to that.🥂</span></div>
+<div class="convo them"><span>Cheers to that.🥂</span></div>
 
 <div class="convo note">This dialog was written with the small help of the Enum chatbot. Based on a true story.</div>
