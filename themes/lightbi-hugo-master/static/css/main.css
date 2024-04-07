@@ -1016,9 +1016,11 @@ correct {
 .convo.me {
   display: flex;
   justify-content: end;
+  margin-bottom: 10px;
 }
 .convo.them {
   display: block;
+  margin-bottom: 10px;
 }
 .convo.me span{
       display: inline-block;
@@ -1027,7 +1029,7 @@ correct {
     font-size: 17px;
     padding: 10px;
     border-radius: 11px;
-  margin-bottom: 10px;
+
 }
 .convo.them  span{
     display: inline-block;
@@ -1036,7 +1038,7 @@ correct {
     font-size: 17px;
     padding: 10px;
     border-radius: 11px;
-   margin-bottom: 10px;
+
 }
 .convo.divider {
       display: block;
