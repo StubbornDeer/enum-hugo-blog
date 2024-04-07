@@ -1014,6 +1014,13 @@ correct {
     border-radius: 5px;
 }
 .convo.me {
+  display: flex;
+  justify-content: end;
+}
+.convo.them {
+  display: block;
+}
+.convo.me span{
       display: inline-block;
     background-color: #4f71df;
     color: #fff;
@@ -1022,7 +1029,7 @@ correct {
     border-radius: 11px;
   margin-bottom: 10px;
 }
-.convo.them {
+.convo.them  span{
     display: inline-block;
     background-color: #bec1cb;
     color: #000;
