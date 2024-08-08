@@ -6,7 +6,6 @@ image : "https://github.com/StubbornDeer/public-media-files/assets/91156314/87f3
 
 Description  : "Let's Master the Art of Creating Effective ChatGPT Prompts!"
 featured: true
-draft: true
 ---
 
 
