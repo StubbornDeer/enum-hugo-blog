@@ -6,6 +6,7 @@ image : "https://raw.githubusercontent.com/StubbornDeer/public-media-files/07878
 
 Description : "In this article, we explain how you can earn recurring, passive income every month"
 featured: true
+draft: true
 ---
 
 ### Why we started our Affiliate program
@@ -19,7 +20,7 @@ But, before we begin, here are a couple of words about why automated support is 
 
 ### Why a chatbot
 
-![image](https://github.com/user-attachments/assets/7f6da724-ccbd-4f08-b291-df16aae66534)
+![image](https://github.com/user-attachments/assets/9320418e-d395-4ed7-b497-cb1cc1685b0f)
 
 1. If you do not have team members in different time zones, that means that you can't provide 24/7 support for your users worldwide.
 2. What's the point of loading your team with not-so-complicated questions that your chatbot can answer?
@@ -38,4 +39,23 @@ Now, let's see how the whole program works:
 6. Internally, we know, that this promo code is for you, and you immediately get 20% of the plan's price.
 7. We all three win!
 
+
+
+### The process, step-by-step
+
+#### Sign up to our Affiliate Portal
+1. Open the [link to our Affiliate portal](https://affiliates.enumhq.com/) and provide your email.
+   ![image](https://github.com/user-attachments/assets/3e043d15-e1bc-437a-947e-8b4519a03fad)
+
+<note> Please make sure you read [our Affiliate Terms and Conditions](https://www.enumhq.com/affiliate-terms), it's short and may be helpful!
+</note>
    
+2. Check your email and copy the number you've received, enter it in the field on the next page:
+
+![image](https://github.com/user-attachments/assets/494f03a4-63a2-47f1-b950-ebbf95ff140d)
+
+   
+4. After you get the code you've received in your email, you will be asked several questions:
+
+![image](https://github.com/user-attachments/assets/13d91368-7ea0-422f-b02c-ca6798f4ca03)
+
