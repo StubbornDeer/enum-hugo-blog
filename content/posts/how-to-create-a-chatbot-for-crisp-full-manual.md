@@ -74,10 +74,25 @@ Once your Crisp account is set up, you can add the Enum chatbot. Here’s how:
 
 1. **Access the Dashboard**: Log in to your Crisp account and navigate to the dashboard.
 2. **Go to Plugins section**: Install the "Support AI Chatbot" plugin by clicking "Install".
+
+![image](https://github.com/StubbornDeer/enum-docs-nextra/assets/91156314/4a38e6cc-1079-482e-b18e-e984215edcdc)
+
+![image](https://github.com/StubbornDeer/enum-docs-nextra/assets/91156314/ab96ce58-abb2-4752-9994-f6607410cf23)
+
 3. **Create an Enum Account**: Right after that you will be redirected to the Enum registration page. Your data (a special token by Crisp) will be passed along to provide a secure installation and smooth experience. Confirm your email and log in to the Enum dashboard.
-4. **Add A New Datasource**: For a new account, we always create a project that already has the Crisp chatbot installed. You can change your project's title and description. Now, you need to create a data to be indexed and passed to the chatbot. Navigate to your project, select a data sources from a menu and create a corresponding data source.
+4. **Add A New Datasource**: For a new account, we always create a project that already has the Crisp chatbot installed. You can change your project's title and description. Now, you need to create a data to be indexed and passed to the chatbot. Navigate to your project, select *Data sources* from a menu and create a corresponding data source.
+
+![image](https://github.com/StubbornDeer/enum-docs-nextra/assets/91156314/5407348c-fac1-4a47-b9a3-b15b9a90267a)
+
+Find all the details [here](https://www.enumhq.com/docs/guide/data-sources).
+
 5. **Crawl Your Website** Say, you want to use your own website as a data source. It needs to be crawled by our spider to find all the links and extract the data.
+
+![image](https://github.com/StubbornDeer/enum-docs-nextra/assets/91156314/104bc6ad-7e2d-457b-bfbf-f4ccc2865b0b)
+
 6. **Index Your Data** Now, select the pages you want to be indexed, and click the *Start Indexing* button. As soon as it's done, your chatbot is almost ready!
+
+The full instructions on installing the Enum plugin can be found [on the documentation](https://www.enumhq.com/docs/chat-plugins/crisp/crisp-installation).
 
 ## Step 4: Configuring Your Chatbot
 
@@ -128,70 +143,44 @@ Here are the settings available in the Custom Behaviour & Automation section for
    - **Pause the Chatbot When User Requests Human Assistance**: Enable this option to stop the chatbot from responding when a user requests human help.
    - **Notify Me When User Requests Assistance**: Set up email notifications to alert you when a user is waiting for human assistance.
 
-3. **Coordinate the Chatbot with Crisp Triggers**:
-   - **Wait for Crisp Trigger Response**: Check this option to make the chatbot wait for a response from a Crisp trigger before replying.
-   - **Wait Time (in seconds) for Crisp Trigger Response**: Specify the duration (in seconds) the chatbot should wait for a trigger response.
-
-4. **Add Standard Action Buttons to the Messages**:
+3. **Add Standard Action Buttons to the Messages**:
    - **Feedback Buttons**: Create buttons that allow users to provide feedback (good or bad) on the chatbot's performance.
    - **Mark Resolved Button**: Add a button that users can click to mark the conversation as resolved.
    - **Request a Human Operator**: Include a button that users can click to request assistance from a human operator.
 
-5. **Custom Buttons**:
+4. **Custom Buttons**:
    - **Add Custom Buttons Based on User Query Class**: Define buttons that will appear based on the mood or type of user query (e.g., greeting, question, frustration). You can specify the button's label, icon, value, and URL to redirect users when clicked.
 
 6. **Automation Based on a Schedule**:
    - **Open Schedule Calendar**: Create time slots for when the chatbot should be active or paused. You can set specific times for the chatbot to respond or remain silent.
 
-7. **Paused Sessions**:
+5. **Coordinate the Chatbot with Crisp Triggers**:
+   - **Wait for Crisp Trigger Response**: Check this option to make the chatbot wait for a response from a Crisp trigger before replying.
+   - **Wait Time (in seconds) for Crisp Trigger Response**: Specify the duration (in seconds) the chatbot should wait for a trigger response.
+
+
+**Paused Sessions**:
    - **View Data on Paused Sessions**: Access information about chat sessions where the AI has been deactivated due to an agent joining the conversation.
-
-By configuring these settings, you can tailor the Enum chatbot's behavior to better meet your needs and enhance user interaction. 
-
-
-### 2. **Setting Up Responses**
-
-- **Default Responses**: Create default responses for common questions. This can include greetings, FAQs, and information about your products or services.
-- **Custom Behavior**: Define how your chatbot should behave in different scenarios. For example, you can set it to ask for user information before providing assistance.
-
-### 3. **Adding Buttons and Quick Replies**
-
-Enhance user interaction by adding buttons and quick replies. This allows users to navigate through options easily. You can create buttons for:
-
-- **Feedback**: Collect user feedback on their experience.
-- **Request Human Assistance**: Allow users to connect with a human agent if needed.
-- **Custom Links**: Redirect users to specific pages on your website.
-
-### 4. **Integrating Data Sources**
-
-To make your chatbot more effective, integrate data sources that it can reference when answering questions. You can upload documents, scrape your website, or enter URLs manually.
 
 ## Step 5: Testing Your Chatbot
 
 Before launching your chatbot, it’s crucial to test its functionality. Here’s how to do it:
 
-1. **Use the Live Test Feature**: Crisp provides a live test feature that allows you to interact with your chatbot as if it were live on your website.
-2. **Simulate User Interactions**: Ask various questions to see how the chatbot responds. Check if it provides accurate information and follows the defined logic.
-3. **Make Adjustments**: Based on your testing, make any necessary adjustments to improve the chatbot's performance.
+**Use the Live Test Feature**: The Enum dashboard provides a live test feature that allows you to interact with your chatbot as if it were live on your website.
 
-## Step 6: Launching Your Chatbot
+  - **1**: Click the "Show Crisp chatbox" button in the Enum dashboard.
+  - **2**: Interact with the chatbot as if it were live on your website. Test various scenarios to ensure it responds correctly.
+  - **3**: If you want to run the chatbot in a test environment, specify this in the settings before testing.
 
-Once you are satisfied with your chatbot's performance, it’s time to launch it on your website:
-
-1. **Install the Crisp Chatbox**: Follow the Crisp documentation to install the chatbox on your website. This typically involves adding a code snippet to your website's HTML.
-2. **Activate Your Chatbot**: In the Crisp dashboard, ensure that your chatbot is activated and ready to respond to user inquiries.
 
 ## Step 7: Monitoring and Improving Your Chatbot
 
 After launching your chatbot, it’s essential to monitor its performance and make improvements over time:
 
 - **Analytics**: Use Crisp's analytics tools to track user interactions, response times, and satisfaction rates.
+- **Enum chatbot stats**: the statistics of pressed buttons can be found on the Stats tab of the *Settings, logs, stats* menu for a project.
 - **User Feedback**: Collect feedback from users to identify areas for improvement.
 - **Regular Updates**: Continuously update your chatbot's responses and features based on user needs and business changes.
-
-## Step 8: Integration with the Crisp chatbot
-
-Crisp has its own chatbot but it doesn't allow to use of voluntary data sources as us and has its restrictions. Nevertheless, we have many cases of successful integration of the Crisp chatbot with our chatbot. The features implemented in the Enum chatbot allow it to complement the Crisp chatbot, not compete with it.
 
 ## Conclusion
 
@@ -200,3 +189,4 @@ Creating and setting up a chatbot for Crisp is a straightforward process that ca
 ## Useful resources
 
 - [The official Crisp manual on installing and using the Enum chatbot](https://help.crisp.chat/en/article/how-can-i-create-an-ai-chatbot-using-chatgpt-s8b0q8/)
+- [How to create a great prompt](https://www.enumhq.com/blog/posts/art-of-creating-great-prompts/)
