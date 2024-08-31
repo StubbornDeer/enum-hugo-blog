@@ -94,9 +94,18 @@ Find all the details [here](https://www.enumhq.com/docs/guide/data-sources).
 
 The full instructions on installing the Enum plugin can be found [on the documentation](https://www.enumhq.com/docs/chat-plugins/crisp/crisp-installation).
 
+Before indexing, you can consider setting up some settings like Density of data, Include links or not, and Force reload pages.
+
+![image](https://github.com/StubbornDeer/enum-docs-nextra/assets/91156314/7cbb65fc-0489-441b-990e-364f2eddf4f8)
+
+![image](https://github.com/user-attachments/assets/112324ff-2078-412e-928f-06f1e5e0be60)
+
 ## Step 4: Configuring Your Chatbot
 
-After creating your chatbot, you need to configure its settings to ensure it meets your requirements. Here are the key settings to consider:
+After creating your chatbot, you configure its settings to ensure it meets your requirements. To set up the chatbot settings, navigate to the corresponding page in *Chatbots* item of the project's menu:
+
+![image](https://github.com/user-attachments/assets/b3553ce3-9638-40ac-9291-9787d6bf52a6)
+
 
 ### 1: Configure Link Display Settings
 
@@ -111,6 +120,8 @@ Navigate to the *Widget settings* tab of the chatbot's properties
    - Find the setting that allows you to specify how many links to display in the chatbot's responses.
    - You can set the maximum number of links to show (e.g., 1 main link and up to 3 additional links).
    - Adjust this number according to your preference.
+
+![image](https://github.com/StubbornDeer/enum-docs-nextra/assets/91156314/9f98ac1c-603c-478f-8716-96c61d096555)
 
 ### 2. **Customizing the Chatbot's Appearance**
 
@@ -158,6 +169,7 @@ Here are the settings available in the Custom Behaviour & Automation section for
    - **Wait for Crisp Trigger Response**: Check this option to make the chatbot wait for a response from a Crisp trigger before replying.
    - **Wait Time (in seconds) for Crisp Trigger Response**: Specify the duration (in seconds) the chatbot should wait for a trigger response.
 
+The full documentation on the chatbot's properties can be found on the [corresponding documentation](https://www.enumhq.com/docs/chat-plugins/crisp/crisp-settings#chatbot-settings).
 
 **Paused Sessions**:
    - **View Data on Paused Sessions**: Access information about chat sessions where the AI has been deactivated due to an agent joining the conversation.
@@ -171,6 +183,8 @@ Before launching your chatbot, it’s crucial to test its functionality. Here’
   - **1**: Click the "Show Crisp chatbox" button in the Enum dashboard.
   - **2**: Interact with the chatbot as if it were live on your website. Test various scenarios to ensure it responds correctly.
   - **3**: If you want to run the chatbot in a test environment, specify this in the settings before testing.
+
+![image](https://github.com/user-attachments/assets/14883432-3633-4ca6-9d11-cf369834a85d)
 
 
 ## Step 7: Monitoring and Improving Your Chatbot
