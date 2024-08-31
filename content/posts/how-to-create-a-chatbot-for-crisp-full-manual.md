@@ -1,3 +1,13 @@
+---
+title: "How to Create and Set Up a Chatbot for Crisp"
+date: 2024-08-31
+tags: ["business", "startups", "chatbots"]
+image : "https://raw.githubusercontent.com/StubbornDeer/public-media-files/3c94279c12f5e6c1a81b585c06d5d564b6591128/media/enum-chatbot.png"
+
+Description  : "In this article, we review the whole process of creating a smart, AI-based chatbot that will help your users after-hours and beyond"
+featured: true
+---
+
 # How to Create and Set Up a Chatbot for Crisp
 
 In today's digital landscape, having a chatbot on your website can significantly enhance user experience and streamline customer support. [Crisp]((https://crisp.chat) is an all-in-one business messaging platform that allows you to integrate a chatbot seamlessly. This article will guide you through the process of creating and setting up a chatbot for Crisp, ensuring that you can provide instant assistance to your users.
