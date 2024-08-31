@@ -83,10 +83,71 @@ Once your Crisp account is set up, you can add the Enum chatbot. Here’s how:
 
 After creating your chatbot, you need to configure its settings to ensure it meets your requirements. Here are the key settings to consider:
 
-### 1. **Customizing the Chatbot's Appearance**
+### 1: Configure Link Display Settings
 
-- **Chatbot Icon**: Choose an icon for your chatbot. You can select from default options or upload your own image.
-- **Chatbot Name**: Set a name for your chatbot that will be displayed to users.
+Navigate to the *Widget settings* tab of the chatbot's properties
+
+1. **Show Source Links in Response**:
+   - Locate the option labeled **Show source links in response**.
+   - Check this box if you want the chatbot to include relevant links in its responses.
+   - If you want to hide the links, ensure this box is unchecked.
+
+2. **Number of Links to Show**:
+   - Find the setting that allows you to specify how many links to display in the chatbot's responses.
+   - You can set the maximum number of links to show (e.g., 1 main link and up to 3 additional links).
+   - Adjust this number according to your preference.
+
+### 2. **Customizing the Chatbot's Appearance**
+
+1. **Chatbot Name**:
+   - Locate the field for the chatbot's name.
+   - Enter your desired name for the chatbot, which will be displayed alongside the chatbot icon.
+
+2. **Chatbot Icon**:
+   - You have three options for the chatbot icon:
+     - **Default Crisp Userpic**: Use the standard userpic provided by Crisp.
+     - **Cute Enum Robot Userpic**: Select the predefined cute robot icon.
+     - **Custom URL**: Upload your own image by providing a URL. Ensure the image is in a supported format (PNG, JPG, JPEG, BMP) and hosted on a reliable server.
+
+### 3. **Set up Custom behaviour and Automation settings**
+
+Here are the settings available in the Custom Behaviour & Automation section for the Enum chatbot, along with short instructions for each:
+
+1. **Chatbot in Session**:
+   - **Wait to Reply**: Check this option if you want the chatbot to respond only after the user provides their phone number or email. Use this if you require contact information before engaging.
+   - **Pass the User Name to the Chatbot**: Enable this setting to allow the chatbot to use the user's name if it is known (extracted from their email).
+   - **Send This Message When a Conversation Starts**: Enter a greeting message that the chatbot will send when a user initiates a conversation.
+   - **Do not show buttons on the greeting message**: With this setting set ON, the chatbot will not show the buttons on the greeting message.
+   - **Pause the Chatbot When Agent Joins the Conversation**: Check this box to make the chatbot quiet whenever a human agent joins the chat.
+   - **Re-run chatbot when conversation is resolved**: This indicates to re-run the chatbot when you click the "Mark this conversation as resolved" in the Crisp dashboard.
+   - **Send this message when re-running chatbot**: You may let your user know that the chatbot is running again.
+   - **Set Crisp conversation segment when a session starts**: You can assing one or more Crisp segments when the conversation starts. It may be very useful for a statistical analysis later, for instance, to distinguish conversations with chatbot from others.
+
+2. **User Requests Human Assistance**:
+   - **Send This Message When User Requests Human**: Specify a message that the chatbot will send when a user asks to speak with a human.
+   - **Pause the Chatbot When User Requests Human Assistance**: Enable this option to stop the chatbot from responding when a user requests human help.
+   - **Notify Me When User Requests Assistance**: Set up email notifications to alert you when a user is waiting for human assistance.
+
+3. **Coordinate the Chatbot with Crisp Triggers**:
+   - **Wait for Crisp Trigger Response**: Check this option to make the chatbot wait for a response from a Crisp trigger before replying.
+   - **Wait Time (in seconds) for Crisp Trigger Response**: Specify the duration (in seconds) the chatbot should wait for a trigger response.
+
+4. **Add Standard Action Buttons to the Messages**:
+   - **Feedback Buttons**: Create buttons that allow users to provide feedback (good or bad) on the chatbot's performance.
+   - **Mark Resolved Button**: Add a button that users can click to mark the conversation as resolved.
+   - **Request a Human Operator**: Include a button that users can click to request assistance from a human operator.
+
+5. **Custom Buttons**:
+   - **Add Custom Buttons Based on User Query Class**: Define buttons that will appear based on the mood or type of user query (e.g., greeting, question, frustration). You can specify the button's label, icon, value, and URL to redirect users when clicked.
+
+6. **Automation Based on a Schedule**:
+   - **Open Schedule Calendar**: Create time slots for when the chatbot should be active or paused. You can set specific times for the chatbot to respond or remain silent.
+
+7. **Paused Sessions**:
+   - **View Data on Paused Sessions**: Access information about chat sessions where the AI has been deactivated due to an agent joining the conversation.
+
+By configuring these settings, you can tailor the Enum chatbot's behavior to better meet your needs and enhance user interaction. 
+
 
 ### 2. **Setting Up Responses**
 
