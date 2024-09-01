@@ -206,6 +206,79 @@ After launching your chatbot, it’s essential to monitor its performance and ma
 - **User Feedback**: Collect feedback from users to identify areas for improvement.
 - **Regular Updates**: Continuously update your chatbot's responses and features based on user needs and business changes.
 
+To buy a plan and enter the keys for "Key" plans in Enum, follow these detailed instructions:
+
+### Step 8: Moving to a paid plan
+
+At some moment, you may decide that the limits of a free plan are not enough. Then, it's time to buy a new plan.
+
+1. **Log In to Your Account**: Go to the Enum website and log in with your credentials.
+2. **Navigate to Billing**: Click on the "Billing" menu item located in the left menu. This will redirect you to the page displaying all available plans.
+3. **Choose a Plan**: Review the available plans and select the one that suits your needs by clicking the "Select this plan" button.
+
+![image](https://github.com/user-attachments/assets/5bfdf17c-359b-40d1-93ff-cb555929a660)
+
+
+#### Complete the Payment Process
+
+1. **Enter Business Information (if applicable)**: If you are purchasing as a business and need to provide tax information (like a VAT number), select the "I'm purchasing as a business" option and enter the required data.
+2. **Proceed to Payment**: After confirming your plan selection and entering any necessary information, you will be redirected to the Stripe payment page.
+3. **Complete Payment**: Follow the prompts to enter your payment information and complete the transaction. Once the payment is successful, you will be redirected back to your dashboard.
+
+#### Enter Your OpenAI Key
+
+1. **Access Account Settings**: Click on the "Settings" option in the left menu of your dashboard.
+2. **Navigate to AI Settings**: In the settings submenu, find and click on "AI settings."
+3. **Enter Your OpenAI Key**: 
+   - Locate the field for entering your OpenAI key. 
+   - If you have purchased a plan starting with "Key," you can enter your OpenAI key here.
+   - Note: The system stores API keys as encrypted strings, so you will not be able to see the key you entered. If you suspect you entered it incorrectly, clear the field and re-enter the key.
+4. **Save Your Settings**: After entering your key, click the "Save settings" button to ensure your changes are recorded.
+
+![image](https://github.com/user-attachments/assets/4cad2c88-7396-49af-bdc4-c9fbfc069a9b)
+
+
+#### Verify Your Key
+
+1. **Check for Errors**: If your key is not working, double-check that it has been entered correctly.
+2. **Test Functionality**: You can test the functionality of your key by using the features available in your plan to ensure everything is working as expected.
+
+Here’s how to update your plan, cancel it, update payment information, and download an invoice in Enum:
+
+#### Updating Your Plan
+
+1. **Log In to Your Account**: Go to the Enum website and log in with your credentials.
+2. **Navigate to Billing**: Click on the "Billing" menu item in the left menu.
+3. **Select a New Plan**: Review the available plans and choose the new plan you want to switch to by clicking the "Select this plan" button.
+4. **Confirm Change**: The previous subscription will be canceled automatically, and a new one will be created. Follow any prompts to confirm the change.
+
+#### Canceling Your Plan
+
+1. **Log In to Your Account**: Access your Enum account.
+2. **Go to Billing**: Click on the "Billing" menu item in the left menu.
+3. **Select Current Plan**: Find your current plan and click on it.
+4. **Cancel Subscription**: Look for the option to cancel your subscription. Follow the prompts to confirm the cancellation. If you believe you may be eligible for a refund for unused days, contact support at info@enumhq.com.
+
+#### Updating Payment Information
+
+1. **Log In to Your Account**: Access your Enum account.
+2. **Navigate to Billing**: Click on the "Billing" menu item in the left menu.
+3. **Go to Payment Method**: Click on the "Payment method" tab.
+4. **Update Payment Information**: Click the "Update my payment method" button. You will be redirected to the Stripe page.
+5. **Enter New Payment Details**: Input your new credit card or payment information.
+6. **Save Changes**: After entering the new information, click the "Save card" button. You will be redirected back to your dashboard.
+
+### Downloading an Invoice
+
+1. **Log In to Your Account**: Go to the Enum website and log in with your credentials.
+2. **Navigate to Billing**: Click on the "Billing" menu item in the left menu.
+3. **Access Invoices**: Click on the tab called "Invoices".
+4. **Select Invoice**: Find the invoice you wish to download and click on the "Receipt/invoice page" link. This will open the corresponding invoice page in a new tab.
+5. **Download Invoice**: Use the provided links on the invoice page to download the receipt and invoice in your preferred format.
+
+By following these steps, you can easily manage your Enum account, including updating your plan, canceling it, updating payment information, and downloading invoices. If you encounter any issues, consider reaching out to Enum support for assistance. 
+
+
 ## Conclusion
 
 Creating and setting up a chatbot for Crisp is a straightforward process that can significantly enhance your customer support capabilities. By following the steps outlined in this article, you can create a chatbot that provides instant assistance, collects valuable data, and improves overall user experience. Remember to monitor its performance regularly and make adjustments as needed to ensure it remains effective and relevant to your users' needs. 
