@@ -1,4 +1,4 @@
-baseURL = "https://enumhq.com/blog"
+baseURL = "https://imod.bot/blog"
 languageCode = "en-us"
 title = "Enum Blog"
 theme = "lightbi-hugo-master"
