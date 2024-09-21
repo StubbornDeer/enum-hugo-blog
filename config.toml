@@ -1,5 +1,4 @@
-baseURL = "https://imod.bot/blog/"
-canonifyURLs = true
+baseURL = "/blog/"
 languageCode = "en-us"
 title = "Enum Blog"
 theme = "lightbi-hugo-master"
