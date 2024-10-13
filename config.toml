@@ -1,6 +1,6 @@
 baseURL = "https://enumhq.com/blog"
 languageCode = "en-us"
-title = "Enum Blog"
+title = "Enum. AI Support Plugin for Crisp chat. Train with your website and documents and support your users 24/7."
 theme = "lightbi-hugo-master"
 [Params]
 pagination = "10"
