@@ -47,7 +47,7 @@ Here are the benefits of using a chatbot for a business:
 
 9. **Multilingual Support**: Many chatbots can communicate in multiple languages, allowing businesses to cater to a diverse customer base - by default, the Enum chatbot responds in the language of a question - unless you told it to act differently.
 
-10. **Integration with Other Tools**: Chatbots can be integrated with various business tools and platforms, such as CRM systems, email marketing, and social media, streamlining operations. The Enum chatbot supports all the integration provided by the Crisp (see the [full list of supported integrations here](https://www.enumhq.com/docs/why-enum#integration-with-other-channels-that-are-integrated-into-crips)).
+10. **Integration with Other Tools**: Chatbots can be integrated with various business tools and platforms, such as CRM systems, email marketing, and social media, streamlining operations. The Enum chatbot supports all the integration provided by the Crisp (see the [full list of supported integrations here](https://enumhq.com/docs/why-enum#integration-with-other-channels-that-are-integrated-into-crips)).
 
 11. **Personalization**: Chatbots can use customer data to provide personalized recommendations and responses, enhancing the customer experience.
 
@@ -63,7 +63,7 @@ Here are the benefits of using a chatbot for a business:
 
 17. **Training and Support**: Chatbots can assist in training new employees by providing them with information and resources, as well as answering their questions.
 
-18. **Brand Image Enhancement**: Implementing a chatbot can enhance a business's image as a tech-savvy and customer-focused organization. The Enum chatbot can read the images uploaded by the user, as well as recognize the voice recording (see [the full list of supported files here](https://www.enumhq.com/docs/why-enum#can-read-and-understand-media-files)).
+18. **Brand Image Enhancement**: Implementing a chatbot can enhance a business's image as a tech-savvy and customer-focused organization. The Enum chatbot can read the images uploaded by the user, as well as recognize the voice recording (see [the full list of supported files here](https://enumhq.com/docs/why-enum#can-read-and-understand-media-files)).
 
 By leveraging these benefits, businesses can improve their customer service, increase efficiency, and ultimately drive growth. 
 
@@ -94,7 +94,7 @@ Once your Crisp account is set up, you can add the Enum chatbot. Here’s how:
 
 ![image](https://github.com/StubbornDeer/enum-docs-nextra/assets/91156314/5407348c-fac1-4a47-b9a3-b15b9a90267a)
 
-Find all the details [here](https://www.enumhq.com/docs/guide/data-sources).
+Find all the details [here](https://enumhq.com/docs/guide/data-sources).
 
 5. **Crawl Your Website** Say, you want to use your own website as a data source. It needs to be crawled by our spider to find all the links and extract the data.
 
@@ -102,7 +102,7 @@ Find all the details [here](https://www.enumhq.com/docs/guide/data-sources).
 
 6. **Index Your Data** Now, select the pages you want to be indexed, and click the *Start Indexing* button. As soon as it's done, your chatbot is almost ready!
 
-The full instructions on installing the Enum plugin can be found [on the documentation](https://www.enumhq.com/docs/chat-plugins/crisp/crisp-installation).
+The full instructions on installing the Enum plugin can be found [on the documentation](https://enumhq.com/docs/chat-plugins/crisp/crisp-installation).
 
 Before indexing, you can consider setting up some settings like Density of data, Include links or not, and Force reload pages.
 
@@ -179,7 +179,7 @@ Here are the settings available in the Custom Behaviour & Automation section for
    - **Wait for Crisp Trigger Response**: Check this option to make the chatbot wait for a response from a Crisp trigger before replying.
    - **Wait Time (in seconds) for Crisp Trigger Response**: Specify the duration (in seconds) the chatbot should wait for a trigger response.
 
-The full documentation on the chatbot's properties can be found on the [corresponding documentation](https://www.enumhq.com/docs/chat-plugins/crisp/crisp-settings#chatbot-settings).
+The full documentation on the chatbot's properties can be found on the [corresponding documentation](https://enumhq.com/docs/chat-plugins/crisp/crisp-settings#chatbot-settings).
 
 **Paused Sessions**:
    - **View Data on Paused Sessions**: Access information about chat sessions where the AI has been deactivated due to an agent joining the conversation.
@@ -286,4 +286,4 @@ Creating and setting up a chatbot for Crisp is a straightforward process that ca
 ## Useful resources
 
 - [The official Crisp manual on installing and using the Enum chatbot](https://help.crisp.chat/en/article/how-can-i-create-an-ai-chatbot-using-chatgpt-s8b0q8/)
-- [How to create a great prompt](https://www.enumhq.com/blog/posts/art-of-creating-great-prompts/)
+- [How to create a great prompt](https://enumhq.com/blog/posts/art-of-creating-great-prompts/)
