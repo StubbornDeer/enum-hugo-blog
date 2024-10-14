@@ -82,9 +82,9 @@ Fortunately, these days we already have tools and frameworks that can help with 
 
 It's still a beginning. ChatGPT is wrong sometimes, the answers are not relevant sometimes and users don't get what they want. But it's still a huge step towards more successful retaining users and make them your friends, not enemies. But just because this approach is a very fresh and new, many business don't use the power of modern technologies and lose their existing and future clients. Don't be like them, start researching. Here are several useful links to check:
 
-- [How Enum works](https://www.enumhq.com/docs/how-it-works)
-- [How to use our free Crisp plugin](https://www.enumhq.com/docs/chat-plugins/crisp)
-- [F.A.Q.](https://www.enumhq.com/#faq)
+- [How Enum works](https://enumhq.com/docs/how-it-works)
+- [How to use our free Crisp plugin](https://enumhq.com/docs/chat-plugins/crisp)
+- [F.A.Q.](https://enumhq.com/#faq)
 
 ### Photo credits
 
