@@ -1,6 +1,6 @@
 baseURL = "https://enumhq.com/blog"
 languageCode = "en-us"
-title = "Enum Blog."
+title = "Enum blog"
 theme = "lightbi-hugo-master"
 [Params]
 pagination = "10"
