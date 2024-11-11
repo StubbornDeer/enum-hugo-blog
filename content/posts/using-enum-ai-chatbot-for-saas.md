@@ -57,8 +57,7 @@ Bottom line: ENUM AI Chatbot boosts SaaS support efficiency, cuts costs, and imp
 
 ## Related video from YouTube
 
-::: @iframe https://www.youtube-nocookie.com/embed/jrfwRXgGhFY
-:::
+[![Enum chatbot introduction](https://img.youtube.com/vi/jrfwRXgGhFY/0.jpg)](https://www.youtube.com/watch?v=jrfwRXgGhFY)
 
 ## Main Support Problems in SaaS
 
