@@ -1,6 +1,6 @@
 ---
-title: "Art of Creating Great Prompts"
-date: 2023-11-11
+title: "Enum AI plugin for Crisp helps hosting providers"
+date: 2024-11-12
 tags: ["ai", "chatbot", "chatgpt", "AI", "customer support", "automation", "hosting providers", "support costs", "response times","multilingual support"]
 image : "https://github.com/user-attachments/assets/485f973b-4726-457d-9ab2-f1e199bd2b7a"
 
