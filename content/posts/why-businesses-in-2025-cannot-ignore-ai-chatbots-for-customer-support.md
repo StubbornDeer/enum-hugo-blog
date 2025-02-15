@@ -3,7 +3,7 @@ title: "Why Businesses in 2025 Can't Ignore AI Chatbots for Customer Support"
 date: 2025-02-15
 tags: ["ai", "chatbot", "chatgpt", "AI chatbot", "SaaS support", "customer service", "automation", "24/7 support"]
 image : "https://github.com/user-attachments/assets/91a24ac4-c54a-4c46-a359-bfa9e8ec569c"
-author: zamina
+author: Zamina Fatima
 
 Description  : "Discover how AI Chatbots are revolutionizing customer service in 2025"
 featured: true
