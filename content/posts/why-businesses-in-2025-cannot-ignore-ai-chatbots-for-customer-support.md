@@ -71,7 +71,8 @@ Businesses no longer see customers as their ATMs only. Rather, they believe in e
 Therefore, businesses must understand what their customers want, their issues, and what they like. 
 
 ```
-“If a customer likes you — and continues to like you — they will continue to do business with you. If they don’t, they won’t.”
+“If a customer likes you — and continues to like you —
+they will continue to do business with you. If they don’t, they won’t.”
 
 Paul Greenberg
 ```
