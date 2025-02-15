@@ -85,12 +85,13 @@ They can keep track of individual conversations, understand their context, and r
 Savvy businesses are leveraging the power of personalization, and it’s not just humans doing it. Rather, AI chatbots play a pivotal role. 
 
 Enum has taken the personalization game a notch or two up; this smart AI support chatbot is capable of:
+
 - Responding in more than 100 languages 
 - Show the relevant links in responses 
 - Understanding images uploaded by users 
 - Recognizing and understanding voice messages in above 100 audio formats. 
 - Integrating all the social handles with just a click.
-- 
+
 With AI-powered chatbots like Enum, you can effortlessly elevate customer satisfaction to the next level. 
 
 ## 4. Instant Feedback and Timely Improvisation 
